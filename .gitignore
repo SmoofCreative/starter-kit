@@ -1,1 +1,5 @@
 .vagrant
+node_modules
+npm-debug.log
+public/bundle.css
+public/bundle.js
