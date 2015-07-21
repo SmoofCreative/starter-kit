@@ -14,7 +14,7 @@ you'll need to set the path to that in `vagrant.yml`. This gives you Ruby and Mo
 
 To get started
 
-`npm install --dev`
+`npm install`
 
 `npm run srv`
 

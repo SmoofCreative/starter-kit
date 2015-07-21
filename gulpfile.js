@@ -45,7 +45,7 @@ gulp.task('watch', function(done){
 
 gulp.task('default', ['watch'])
 
-// start with `npm run nodemon`
+// start with `npm run srv`
 gulp.task('srv', ['watch'], function() {
   nodemon({
     script: 'server.js',
